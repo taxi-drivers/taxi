@@ -1,0 +1,22 @@
+version: 2.0
+shards:
+  clim:
+    git: https://github.com/at-grandpa/clim.git
+    version: 0.17.1
+
+  lingo:
+    git: https://github.com/rmosolgo/lingo.git
+    version: 0.2.1+git.commit.12d097a27bbfb1370289ce765d3c3b77308e816e
+
+  popcorn:
+    git: https://github.com/icyleaf/popcorn.git
+    version: 0.3.0
+
+  readline:
+    git: https://github.com/crystal-lang/crystal-readline.git
+    version: 0.1.1
+
+  totem:
+    git: https://github.com/icyleaf/totem.git
+    version: 0.7.0
+

@@ -1,0 +1,3 @@
+name: taxi
+license: MIT
+main: ./main.tx

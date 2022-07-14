@@ -1,0 +1,22 @@
+name: taxi
+version: 0.1.0
+
+authors:
+  - Voxaloo
+
+targets:
+  taxi:
+    main: src/taxi.cr
+
+crystal: 1.5.0
+
+license: MIT
+
+dependencies:
+  clim:
+    github: at-grandpa/clim
+    version: 0.17.1
+  readline:
+    github: crystal-lang/crystal-readline
+  totem:
+    github: icyleaf/totem
